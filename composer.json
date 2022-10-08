@@ -1,0 +1,15 @@
+{
+    "name": "phpsandbox/standard",
+    "description": "",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicholas Otieno",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
